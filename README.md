@@ -10,7 +10,7 @@
   - Python (as part of my university studies)
   - Java (as part of my university studies)
   - WordPress (self-taught)
-- <img align="center" src="https://cdn-0.emojis.wiki/emoji-pics/apple/argentina-apple.png" alt="Flag Argentina" width="20" height="20"/> I'm from Buenos Aires, Argentina. 
+- <img align="center" src="https://cdn-0.emojis.wiki/emoji-pics/apple/argentina-apple.png" alt="Flag Argentina" width="20" height="20"/> I'm 20 and from Buenos Aires, Argentina. 
 - 💻 I'm interested in Web Development, Game Development, and backend technologies like databases and APIs.
 - 🤝 I'm open to hearing about potential collaboration opportunities.
 - Outside tech, 🏅​ I'm passionate about sports, ​🎮 I love playing video games, and 🌴 exploring the outdoors.
