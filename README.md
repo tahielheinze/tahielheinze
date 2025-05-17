@@ -1,19 +1,22 @@
 <h1 align="center"><b>Hi , I'm Tahiel Heinze </b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="45" height="45"/></h1>
 
-<b align="center">***About Me***</b>
+<h2><b align="center" style="padding: 0px">About Me</b></h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  - **I'm currently studying Programming at UTN University.**
-  - ​🎓I'm currently learning:
-    - Python (as part of my university studies)
-    - Java (as part of my university studies)
-    - WordPress (self-taught)
-  - I'm from Buenos Aires, Argentina.
-  - ✔I'm interested in Web Development, Game Development, and working with backend technologies like databases and APIs.
-  - 💼I'm open to hearing about potential collaboration opportunities.
-  - Outside of programming, 🏅​ I'm passionate about sports, ​🎮 playing video games, and 🌴 exploring the outdoors.
+
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="17px"><b align="center"> ***My Skills***</b>
+- 🎓 **I'm currently studying Programming at UTN University.**
+- 📘 **I'm currently learning:**
+  - Python (as part of my university studies)
+  - Java (as part of my university studies)
+  - WordPress (self-taught)
+- 🌍 I'm from Buenos Aires, Argentina.
+- 💻 I'm interested in Web Development, Game Development, and backend technologies like databases and APIs.
+- 🤝 I'm open to hearing about potential collaboration opportunities.
+- Outside of programming, 🏅​ I'm passionate about sports, ​🎮 playing video games, and 🌴 exploring the outdoors.
+<br>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="17px"><h2><b align="center" style="padding: 0px">My Skills</b></h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 * <b>Languages</b>
@@ -44,7 +47,7 @@
   <br>
   </br>
   
-<b align="center">***Contact***</b>
+<h2><b align="center" style="padding: 0px">Contact</b></h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://linktr.ee/tnheinze">![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>
