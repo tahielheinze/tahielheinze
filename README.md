@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://camo.githubusercontent.com/ff4478f93581788c3f10a8961c0622cc36f37c7115f91a6b68443726005d4a43/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="35" height="35"/><b> Hi, I'm Tahiel Heinze </b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="35" height="35"/></h1>
 
-<h2 style="border-bottom: none; padding-bottom: 0px"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /><span>  About Me:</span></h2>
+<h2 style="border-bottom: none; padding-bottom: 0px"><img src="https://em-content.zobj.net/source/telegram/386/alien-monster_1f47e.webp" alt="X-Ray" width="25" height="25" /><span>  About Me:</span></h2>
 <img align="right" width="300" alt="peepo-arrive" src="https://media.tenor.com/RWeubXhMGIsAAAAM/peepo-arrive-meme.gif">
 
 - 🎓 **I'm currently studying Programming at UTN University.**
