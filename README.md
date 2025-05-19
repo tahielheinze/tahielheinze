@@ -66,6 +66,6 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+stopping+by!+See+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+stopping+by!+See+you+soon!)](https://git.io/typing-svg)
 
 ------
