@@ -48,7 +48,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <br>
  
-<h2><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Call%20Me%20Hand.webp" alt="Call Me Hand" width="25" height="25"/><b style="padding: 0px">  Get in touch:</b></h2>
+<h2><img align="center" src="https://em-content.zobj.net/source/telegram/386/call-me-hand_1f919.webp" alt="Call Me Hand" width="25" height="25"/><b style="padding: 0px">  Get in touch:</b></h2>
 <br>
 
   <a href="https://linktr.ee/tnheinze">![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>
