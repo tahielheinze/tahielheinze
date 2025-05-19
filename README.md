@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://camo.githubusercontent.com/ff4478f93581788c3f10a8961c0622cc36f37c7115f91a6b68443726005d4a43/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="35" height="35"/><b> Hi, I'm Tahiel Heinze </b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="35" height="35"/></h1>
 
-<h2 style="border-bottom: none; padding-bottom: 0px"><img src="https://em-content.zobj.net/source/telegram/386/alien-monster_1f47e.webp" alt="X-Ray" width="25" height="25" /><span>  About Me:</span></h2>
+<h2 style="border-bottom: none; padding-bottom: 0px"><img align="top" src="https://em-content.zobj.net/source/telegram/386/alien-monster_1f47e.webp" alt="X-Ray" width="30" height="30" /><span>  About Me:</span></h2>
 <img align="right" width="300" alt="peepo-arrive" src="https://media.tenor.com/RWeubXhMGIsAAAAM/peepo-arrive-meme.gif">
 
 - 🎓 **I'm currently studying Programming at UTN University.**
@@ -48,7 +48,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <br>
  
-<h2><img align="center" src="https://em-content.zobj.net/source/telegram/386/call-me-hand_1f919.webp" alt="Call Me Hand" width="25" height="25"/><b style="padding: 0px">  Get in touch:</b></h2>
+<h2><img align="top" src="https://em-content.zobj.net/source/telegram/386/call-me-hand_1f919.webp" alt="Call Me Hand" width="30" height="30"/><b style="padding: 0px">  Get in touch:</b></h2>
 <br>
 
   <a href="https://linktr.ee/tnheinze">![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>
@@ -58,7 +58,7 @@
   <a href="https://discord.com/">![Discord](https://img.shields.io/badge/tahiel.11-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
  <br>
  </br>
-<h2 style="margin: 5px 10px"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25"/><b>  Github stats:</b></h2> 
+<h2 style="margin: 5px 10px"><img align="top" src="https://em-content.zobj.net/source/telegram/386/military-medal_1f396-fe0f.webp" alt="Chart Increasing" width="30" height="30"/><b>  Github stats:</b></h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=tahielheinze&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tahielheinze)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=tahielheinze&theme=material-palenight)](https://github.com/tahielheinze)
