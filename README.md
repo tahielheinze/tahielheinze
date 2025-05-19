@@ -60,7 +60,8 @@
  </br>
 <h2 style="margin: 5px 10px"><img align="top" src="https://em-content.zobj.net/source/telegram/386/military-medal_1f396-fe0f.webp" alt="Medal" width="30" height="30"/><b>  Github stats:</b></h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=tahielheinze&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tahielheinze) [![](https://github-readme-streak-stats.herokuapp.com/?user=tahielheinze&theme=material-palenight)](https://github.com/tahielheinze)
+[![](https://github-readme-stats.vercel.app/api?username=tahielheinze&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tahielheinze)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=tahielheinze&theme=material-palenight)](https://github.com/tahielheinze)
 </div>
 
 ---
