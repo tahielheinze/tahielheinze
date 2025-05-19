@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://camo.githubusercontent.com/ff4478f93581788c3f10a8961c0622cc36f37c7115f91a6b68443726005d4a43/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="35" height="35"/><b> Hi, I'm Tahiel Heinze </b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="35" height="35"/></h1>
+<h1 align="center"><img src="https://camo.githubusercontent.com/ff4478f93581788c3f10a8961c0622cc36f37c7115f91a6b68443726005d4a43/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="35" height="35"/><b> Hi, I'm Tahiel Heinze </b><img align="top" src="https://em-content.zobj.net/source/telegram/386/waving-hand_1f44b.webp" alt="Waving Hand" width="35" height="35"/></h1>
 
-<h2 style="border-bottom: none; padding-bottom: 0px"><img align="top" src="https://em-content.zobj.net/source/telegram/386/alien-monster_1f47e.webp" alt="X-Ray" width="30" height="30" /><span>  About Me:</span></h2>
+<h2 style="border-bottom: none; padding-bottom: 0px"><img align="top" src="https://em-content.zobj.net/source/telegram/386/alien-monster_1f47e.webp" alt="alien-monster" width="30" height="30" /><span>  About Me:</span></h2>
 <img align="right" width="300" alt="peepo-arrive" src="https://media.tenor.com/RWeubXhMGIsAAAAM/peepo-arrive-meme.gif">
 
 - 🎓 **I'm currently studying Programming at UTN University.**
@@ -15,7 +15,7 @@
 - ​📩​ Reach out to me at: <a href="tahielheinze@hotmail.com">tahielheinze@hotmail.com</a>
 <br>
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b align="center" style="padding: 0px">  My Skills:</b></h2>
+<h2><img align="top" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="code" width ="25"><b style="padding: 0px">  My Skills:</b></h2>
 
 * <b>Languages</b>
   <br>
@@ -58,7 +58,7 @@
   <a href="https://discord.com/">![Discord](https://img.shields.io/badge/tahiel.11-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
  <br>
  </br>
-<h2 style="margin: 5px 10px"><img align="top" src="https://em-content.zobj.net/source/telegram/386/military-medal_1f396-fe0f.webp" alt="Chart Increasing" width="30" height="30"/><b>  Github stats:</b></h2> 
+<h2 style="margin: 5px 10px"><img align="top" src="https://em-content.zobj.net/source/telegram/386/military-medal_1f396-fe0f.webp" alt="Medal" width="30" height="30"/><b>  Github stats:</b></h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=tahielheinze&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tahielheinze)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=tahielheinze&theme=material-palenight)](https://github.com/tahielheinze)
