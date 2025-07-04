@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://camo.githubusercontent.com/ff4478f93581788c3f10a8961c0622cc36f37c7115f91a6b68443726005d4a43/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="35" height="35"/><b> Hi, I'm Tahiel Heinze </b><img align="top" src="https://em-content.zobj.net/source/telegram/386/waving-hand_1f44b.webp" alt="Waving Hand" width="35" height="35"/></h1>
 
 <h2 style="border-bottom: none; padding-bottom: 0px"><img align="top" src="https://em-content.zobj.net/source/telegram/386/alien-monster_1f47e.webp" alt="alien-monster" width="30" height="30" /><span>  About Me:</span></h2>
-<img align="right" width="300" alt="peepo-arrive" src="https://media.tenor.com/RWeubXhMGIsAAAAM/peepo-arrive-meme.gif">
+
 
 - 🎓 **I'm currently studying Programming at UTN University.**
 - 📘 **I'm currently learning:**
