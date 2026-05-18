@@ -63,8 +63,6 @@
   <a href="https://linktr.ee/tnheinze">![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>
   <a href="https://www.linkedin.com/in/tahielheinze/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="mailto:tahielheinze@hotmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://www.instagram.com/tnheinze/">![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-  <a href="https://discord.com/">![Discord](https://img.shields.io/badge/tahiel.11-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
  <br>
  </br>
 <h2 style="margin: 5px 10px"><img align="top" src="https://em-content.zobj.net/source/telegram/386/military-medal_1f396-fe0f.webp" alt="Medal" width="30" height="30"/><b>  Github stats:</b></h2> 
